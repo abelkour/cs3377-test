@@ -8,7 +8,7 @@
 using namespace std;
 int main( )
 {
-     cout <<" Hello from git" <<endl;
+     cout <<" Hello from git from branch testconflict" <<endl;
      return 0;
 
 
